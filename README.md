@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiqueLimaNovaes&show_icons=true&theme=merko)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiqueLimaNovaes)](https://github.com/KaiqueLimaNovaes)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiqueLimaNovaes&show_icons=true&theme=merko)](https://github.com/KaiqueLimaNovaes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueLimaNovaes&layout=compact)](https://github.com/KaiqueLimaNovaes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueLimaNovaes&layout=compact&show_icons=true&theme=merko)](https://github.com/KaiqueLimaNovaes)
 
 <!--
 **KaiqueLimaNovaes/KaiqueLimaNovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
