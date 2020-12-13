@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiqueLimaNovaes)]
+![Anurag's github stats(https://github-readme-stats.vercel.app/api?username=KaiqueLimaNovaes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueLimaNovaes&layout=compact)]
 
