@@ -1,7 +1,6 @@
 ### Bem vindo ao meu github 👋
 
-Conheça mais sobre meu trabalho
-https://kaiquelimanovaes.com/
+Conheça mais sobre meu trabalho: https://kaiquelimanovaes.com/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiqueLimaNovaes&show_icons=true&theme=merko)](https://github.com/KaiqueLimaNovaes)
 
