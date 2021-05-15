@@ -1,4 +1,4 @@
-### Bem vindo ao meu github 👋
+### Bem vindo ao meu github
 
 Conheça mais sobre minhas skills e projetos realizados: https://kaiquelimanovaes.com/
 
