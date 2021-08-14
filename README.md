@@ -9,6 +9,11 @@ times, processos e criar soluções novas, para impactar as pessoas
 em prol de um mundo mais próspero e justo.
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiqueLimaNovaes&show_icons=true&theme=merko)](https://github.com/KaiqueLimaNovaes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueLimaNovaes&layout=compact&show_icons=true&theme=merko)](https://github.com/KaiqueLimaNovaes)
+
+
 <!--
 **KaiqueLimaNovaes/KaiqueLimaNovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
