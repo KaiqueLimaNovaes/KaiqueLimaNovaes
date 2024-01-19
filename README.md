@@ -4,7 +4,6 @@ Conheça mais sobre minhas skills e projetos realizados: https://kaiquelimanovae
 
 Prático, realista e eficiente, com ótima capacidade de criação e
 execução.
-
 O que mais me motiva é atuar com autonomia, liderar
 times, processos e criar soluções novas, para impactar as pessoas
 em prol de um mundo mais próspero e justo.
